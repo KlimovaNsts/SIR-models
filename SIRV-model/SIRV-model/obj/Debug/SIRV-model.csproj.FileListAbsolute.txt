@@ -1,0 +1,10 @@
+C:\Users\79124\source\repos\SIRV-model\SIRV-model\obj\Debug\SIRV-model.csproj.AssemblyReference.cache
+C:\Users\79124\source\repos\SIRV-model\SIRV-model\obj\Debug\SIRV_model.Form1.resources
+C:\Users\79124\source\repos\SIRV-model\SIRV-model\obj\Debug\SIRV_model.Properties.Resources.resources
+C:\Users\79124\source\repos\SIRV-model\SIRV-model\obj\Debug\SIRV-model.csproj.GenerateResource.cache
+C:\Users\79124\source\repos\SIRV-model\SIRV-model\obj\Debug\SIRV-model.csproj.CoreCompileInputs.cache
+C:\Users\79124\source\repos\SIRV-model\SIRV-model\bin\Debug\SIRV-model.exe.config
+C:\Users\79124\source\repos\SIRV-model\SIRV-model\bin\Debug\SIRV-model.exe
+C:\Users\79124\source\repos\SIRV-model\SIRV-model\bin\Debug\SIRV-model.pdb
+C:\Users\79124\source\repos\SIRV-model\SIRV-model\obj\Debug\SIRV-model.exe
+C:\Users\79124\source\repos\SIRV-model\SIRV-model\obj\Debug\SIRV-model.pdb

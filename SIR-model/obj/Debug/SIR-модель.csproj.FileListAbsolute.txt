@@ -1,0 +1,9 @@
+C:\Users\PC\source\repos\KlimovaNsts\SIR-модель\obj\Debug\SIR-модель.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\KlimovaNsts\SIR-модель\obj\Debug\SIR_модель.Form1.resources
+C:\Users\PC\source\repos\KlimovaNsts\SIR-модель\obj\Debug\SIR_модель.Properties.Resources.resources
+C:\Users\PC\source\repos\KlimovaNsts\SIR-модель\obj\Debug\SIR-модель.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\KlimovaNsts\SIR-модель\obj\Debug\SIR-модель.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\KlimovaNsts\SIR-модель\bin\Debug\SIR-модель.exe
+C:\Users\PC\source\repos\KlimovaNsts\SIR-модель\bin\Debug\SIR-модель.pdb
+C:\Users\PC\source\repos\KlimovaNsts\SIR-модель\obj\Debug\SIR-модель.exe
+C:\Users\PC\source\repos\KlimovaNsts\SIR-модель\obj\Debug\SIR-модель.pdb

@@ -1,0 +1,10 @@
+C:\Users\79124\source\repos\SEIR-model\SEIR-model\bin\Debug\SEIR-model.exe.config
+C:\Users\79124\source\repos\SEIR-model\SEIR-model\bin\Debug\SEIR-model.exe
+C:\Users\79124\source\repos\SEIR-model\SEIR-model\bin\Debug\SEIR-model.pdb
+C:\Users\79124\source\repos\SEIR-model\SEIR-model\obj\Debug\SEIR-model.csproj.AssemblyReference.cache
+C:\Users\79124\source\repos\SEIR-model\SEIR-model\obj\Debug\SEIR_model.Form1.resources
+C:\Users\79124\source\repos\SEIR-model\SEIR-model\obj\Debug\SEIR_model.Properties.Resources.resources
+C:\Users\79124\source\repos\SEIR-model\SEIR-model\obj\Debug\SEIR-model.csproj.GenerateResource.cache
+C:\Users\79124\source\repos\SEIR-model\SEIR-model\obj\Debug\SEIR-model.csproj.CoreCompileInputs.cache
+C:\Users\79124\source\repos\SEIR-model\SEIR-model\obj\Debug\SEIR-model.exe
+C:\Users\79124\source\repos\SEIR-model\SEIR-model\obj\Debug\SEIR-model.pdb
